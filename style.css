@@ -29,9 +29,9 @@ header {
 /* ---------- Título principal ----------
    Parte 5: os dois alunos alteram esta regra ao mesmo tempo */
 h1 {
-    color: #2ecc71;
-    font-size: 3rem;
-    text-align: left;
+    color: #e74c3c; /* cor escolhida pelo aluno A */
+    font-size: 3rem; /* tamanho escolhido pelo aluno B */
+    text-align: center; /* alinhamento escolhido pelo aluno A */
 }
 
 
